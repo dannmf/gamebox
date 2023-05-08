@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321092308170",
+    "project_id": "gamebox-2d86f",
+    "storage_bucket": "gamebox-2d86f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321092308170:android:244d15fb9efdf4c955b833",
+        "android_client_info": {
+          "package_name": "com.example.igbd_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321092308170-s64j4kgtaogsu1au5b5gb40o57jtkkrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsAovPmyMwxanTpO4isoUCAq7hrckogs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321092308170-s64j4kgtaogsu1au5b5gb40o57jtkkrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
